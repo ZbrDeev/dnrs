@@ -13,7 +13,6 @@
 2. [Installation](#installation)
 3. [Setup](#setup)
 4. [Documentation](#documentation)
-5. [Feedback](#feedback)
 
 # Requirement
 
@@ -72,6 +71,3 @@ If you see an error, don't hesitate to open an [issue](https://github.com/Veroni
 
 # Documentation
 You can find the documentation at this [link](https://dnrs.zoubheir.com).
-
-# Feedback
-If you have any comments, please do not hesitate to contact me at zoubheir@gmail.com.
